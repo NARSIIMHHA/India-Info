@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200">
+<rect width="100%" height="100%" fill="url(#bg)"/>
+<defs>
+  <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#f0fff7"/>
+    <stop offset="1" stop-color="#e6fbff"/>
+  </linearGradient>
+</defs>
+<!-- Simplified clickable shapes placed roughly -->
+<g transform="translate(40,40) scale(0.9)">
+
+<g id-group="AP">
+<circle id="AP" cx="120" cy="80" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="120" y="85" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">AP</text>
+</g>
+<g id-group="AR">
+<circle id="AR" cx="240" cy="80" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="240" y="85" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">AR</text>
+</g>
+<g id-group="AS">
+<circle id="AS" cx="360" cy="80" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="360" y="85" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">AS</text>
+</g>
+<g id-group="BR">
+<circle id="BR" cx="480" cy="80" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="480" y="85" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">BR</text>
+</g>
+<g id-group="CG">
+<circle id="CG" cx="600" cy="80" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="600" y="85" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">CG</text>
+</g>
+<g id-group="GA">
+<circle id="GA" cx="720" cy="80" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="720" y="85" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">GA</text>
+</g>
+<g id-group="GJ">
+<circle id="GJ" cx="120" cy="200" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="120" y="205" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">GJ</text>
+</g>
+<g id-group="HR">
+<circle id="HR" cx="240" cy="200" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="240" y="205" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">HR</text>
+</g>
+<g id-group="HP">
+<circle id="HP" cx="360" cy="200" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="360" y="205" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">HP</text>
+</g>
+<g id-group="JH">
+<circle id="JH" cx="480" cy="200" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="480" y="205" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">JH</text>
+</g>
+<g id-group="KA">
+<circle id="KA" cx="600" cy="200" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="600" y="205" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">KA</text>
+</g>
+<g id-group="KL">
+<circle id="KL" cx="720" cy="200" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="720" y="205" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">KL</text>
+</g>
+<g id-group="MP">
+<circle id="MP" cx="120" cy="320" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="120" y="325" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">MP</text>
+</g>
+<g id-group="MH">
+<circle id="MH" cx="240" cy="320" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="240" y="325" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">MH</text>
+</g>
+<g id-group="MN">
+<circle id="MN" cx="360" cy="320" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="360" y="325" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">MN</text>
+</g>
+<g id-group="ML">
+<circle id="ML" cx="480" cy="320" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="480" y="325" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">ML</text>
+</g>
+<g id-group="MZ">
+<circle id="MZ" cx="600" cy="320" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="600" y="325" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">MZ</text>
+</g>
+<g id-group="NL">
+<circle id="NL" cx="720" cy="320" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="720" y="325" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">NL</text>
+</g>
+<g id-group="OR">
+<circle id="OR" cx="120" cy="440" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="120" y="445" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">OR</text>
+</g>
+<g id-group="PB">
+<circle id="PB" cx="240" cy="440" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="240" y="445" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">PB</text>
+</g>
+<g id-group="RJ">
+<circle id="RJ" cx="360" cy="440" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="360" y="445" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">RJ</text>
+</g>
+<g id-group="SK">
+<circle id="SK" cx="480" cy="440" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="480" y="445" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">SK</text>
+</g>
+<g id-group="TN">
+<circle id="TN" cx="600" cy="440" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="600" y="445" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">TN</text>
+</g>
+<g id-group="TG">
+<circle id="TG" cx="720" cy="440" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="720" y="445" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">TG</text>
+</g>
+<g id-group="TR">
+<circle id="TR" cx="120" cy="560" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="120" y="565" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">TR</text>
+</g>
+<g id-group="UP">
+<circle id="UP" cx="240" cy="560" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="240" y="565" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">UP</text>
+</g>
+<g id-group="UT">
+<circle id="UT" cx="360" cy="560" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="360" y="565" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">UT</text>
+</g>
+<g id-group="WB">
+<circle id="WB" cx="480" cy="560" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="480" y="565" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">WB</text>
+</g>
+<g id-group="AN">
+<circle id="AN" cx="600" cy="560" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="600" y="565" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">AN</text>
+</g>
+<g id-group="CH">
+<circle id="CH" cx="720" cy="560" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="720" y="565" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">CH</text>
+</g>
+<g id-group="DN">
+<circle id="DN" cx="120" cy="680" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="120" y="685" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">DN</text>
+</g>
+<g id-group="DLUT">
+<circle id="DLUT" cx="240" cy="680" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="240" y="685" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">DLUT</text>
+</g>
+<g id-group="JK">
+<circle id="JK" cx="360" cy="680" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="360" y="685" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">JK</text>
+</g>
+<g id-group="LD">
+<circle id="LD" cx="480" cy="680" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="480" y="685" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">LD</text>
+</g>
+<g id-group="LK">
+<circle id="LK" cx="600" cy="680" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="600" y="685" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">LK</text>
+</g>
+<g id-group="PY">
+<circle id="PY" cx="720" cy="680" r="44" fill="#90e0c1" stroke="#064638" stroke-width="2"/>
+<text x="720" y="685" font-size="18" text-anchor="middle" fill="#033827" font-weight="700">PY</text>
+</g>
+</g></svg>

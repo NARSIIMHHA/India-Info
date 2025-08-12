@@ -1,0 +1,328 @@
+[
+  {
+    "id": "AP",
+    "name": "Andhra Pradesh",
+    "capital": "Amaravati",
+    "area": "160,205 km\u00b2",
+    "geography": "Coastal state in southeastern India.",
+    "significance": "Temples and Tirupati pilgrimage.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Andhra_Pradesh_collage.png",
+    "significance_short": "Coast & temples"
+  },
+  {
+    "id": "AR",
+    "name": "Arunachal Pradesh",
+    "capital": "Itanagar",
+    "area": "83,743 km\u00b2",
+    "geography": "Northeast India, hilly and forested.",
+    "significance": "Biodiversity and monasteries.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Arunachal_Pradesh_montage.png"
+  },
+  {
+    "id": "AS",
+    "name": "Assam",
+    "capital": "Dispur",
+    "area": "78,438 km\u00b2",
+    "geography": "Northeast plains, Brahmaputra valley.",
+    "significance": "Tea gardens and Kaziranga NP.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Assam_collage.png"
+  },
+  {
+    "id": "BR",
+    "name": "Bihar",
+    "capital": "Patna",
+    "area": "94,163 km\u00b2",
+    "geography": "Gangetic plain in east India.",
+    "significance": "Ancient universities and religions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bihar_collage.png"
+  },
+  {
+    "id": "CG",
+    "name": "Chhattisgarh",
+    "capital": "Raipur",
+    "area": "135,192 km\u00b2",
+    "geography": "Central Indian plateau & forests.",
+    "significance": "Mineral-rich and tribal culture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Chhattisgarh_collage.png"
+  },
+  {
+    "id": "GA",
+    "name": "Goa",
+    "capital": "Panaji",
+    "area": "3,702 km\u00b2",
+    "geography": "Small coastal state on west coast.",
+    "significance": "Beaches and Portuguese heritage.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Goa_beach.png"
+  },
+  {
+    "id": "GJ",
+    "name": "Gujarat",
+    "capital": "Gandhinagar",
+    "area": "196,024 km\u00b2",
+    "geography": "Western state with coastline.",
+    "significance": "Gir lions and industry.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Gujarat_collage.png"
+  },
+  {
+    "id": "HR",
+    "name": "Haryana",
+    "capital": "Chandigarh",
+    "area": "44,212 km\u00b2",
+    "geography": "North India, agricultural plains.",
+    "significance": "Industry and historical sites.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Haryana_collage.png"
+  },
+  {
+    "id": "HP",
+    "name": "Himachal Pradesh",
+    "capital": "Shimla",
+    "area": "55,673 km\u00b2",
+    "geography": "Himalayan state with hill stations.",
+    "significance": "Tourism and mountains.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Himachal_Pradesh_montage.png"
+  },
+  {
+    "id": "JH",
+    "name": "Jharkhand",
+    "capital": "Ranchi",
+    "area": "79,714 km\u00b2",
+    "geography": "Plateau with forests and minerals.",
+    "significance": "Mining and tribal culture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jharkhand_collage.png"
+  },
+  {
+    "id": "KA",
+    "name": "Karnataka",
+    "capital": "Bengaluru",
+    "area": "191,791 km\u00b2",
+    "geography": "Southwest India with plateau.",
+    "significance": "IT hub and Hampi ruins.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Karnataka_collage.png"
+  },
+  {
+    "id": "KL",
+    "name": "Kerala",
+    "capital": "Thiruvananthapuram",
+    "area": "38,863 km\u00b2",
+    "geography": "Tropical Malabar coast and backwaters.",
+    "significance": "Backwaters and spices.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Kerala_collage.png"
+  },
+  {
+    "id": "MP",
+    "name": "Madhya Pradesh",
+    "capital": "Bhopal",
+    "area": "308,245 km\u00b2",
+    "geography": "Central India, plateau and forests.",
+    "significance": "Khajuraho temples and tiger reserves.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Madhya_Pradesh_collage.png"
+  },
+  {
+    "id": "MH",
+    "name": "Maharashtra",
+    "capital": "Mumbai",
+    "area": "307,713 km\u00b2",
+    "geography": "Western India with long coast.",
+    "significance": "Financial capital & Bollywood.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Maharashtra_collage.png"
+  },
+  {
+    "id": "MN",
+    "name": "Manipur",
+    "capital": "Imphal",
+    "area": "22,327 km\u00b2",
+    "geography": "Northeast hills and valleys.",
+    "significance": "Loktak Lake and culture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Manipur_collage.png"
+  },
+  {
+    "id": "ML",
+    "name": "Meghalaya",
+    "capital": "Shillong",
+    "area": "22,429 km\u00b2",
+    "geography": "Hills and rainforests.",
+    "significance": "Waterfalls and root bridges.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Meghalaya_collage.png"
+  },
+  {
+    "id": "MZ",
+    "name": "Mizoram",
+    "capital": "Aizawl",
+    "area": "21,081 km\u00b2",
+    "geography": "Hilly state in the northeast.",
+    "significance": "Bamboo forests and festivals.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mizoram_collage.png"
+  },
+  {
+    "id": "NL",
+    "name": "Nagaland",
+    "capital": "Kohima",
+    "area": "16,579 km\u00b2",
+    "geography": "Northeast hills and valleys.",
+    "significance": "Hornbill Festival.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Nagaland_collage.png"
+  },
+  {
+    "id": "OR",
+    "name": "Odisha",
+    "capital": "Bhubaneswar",
+    "area": "155,707 km\u00b2",
+    "geography": "Eastern coast and rivers.",
+    "significance": "Konark Sun Temple and Chilika Lake.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Odisha_collage.png"
+  },
+  {
+    "id": "PB",
+    "name": "Punjab",
+    "capital": "Chandigarh",
+    "area": "50,362 km\u00b2",
+    "geography": "Fertile plains in northwest.",
+    "significance": "Golden Temple and agriculture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Punjab_collage.png"
+  },
+  {
+    "id": "RJ",
+    "name": "Rajasthan",
+    "capital": "Jaipur",
+    "area": "342,239 km\u00b2",
+    "geography": "Large desert and plains in west.",
+    "significance": "Forts, palaces and desert culture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Rajasthan_collage.png"
+  },
+  {
+    "id": "SK",
+    "name": "Sikkim",
+    "capital": "Gangtok",
+    "area": "7,096 km\u00b2",
+    "geography": "Small Himalayan state.",
+    "significance": "Kanchenjunga and monasteries.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sikkim_collage.png"
+  },
+  {
+    "id": "TN",
+    "name": "Tamil Nadu",
+    "capital": "Chennai",
+    "area": "130,058 km\u00b2",
+    "geography": "Southeast peninsular state.",
+    "significance": "Temples and classical dance.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tamil_Nadu_collage.png"
+  },
+  {
+    "id": "TG",
+    "name": "Telangana",
+    "capital": "Hyderabad",
+    "area": "112,077 km\u00b2",
+    "geography": "Deccan plateau region.",
+    "significance": "Charminar and IT industry.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Telangana_collage.png"
+  },
+  {
+    "id": "TR",
+    "name": "Tripura",
+    "capital": "Agartala",
+    "area": "10,486 km\u00b2",
+    "geography": "Northeast with hills and plains.",
+    "significance": "Palaces and handicrafts.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tripura_collage.png"
+  },
+  {
+    "id": "UP",
+    "name": "Uttar Pradesh",
+    "capital": "Lucknow",
+    "area": "243,286 km\u00b2",
+    "geography": "Large Gangetic plain state.",
+    "significance": "Taj Mahal and historic cities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Uttar_Pradesh_collage.png"
+  },
+  {
+    "id": "UT",
+    "name": "Uttarakhand",
+    "capital": "Dehradun",
+    "area": "53,483 km\u00b2",
+    "geography": "Himalayan foothills and rivers.",
+    "significance": "Char Dham pilgrimage and mountains.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Uttarakhand_collage.png"
+  },
+  {
+    "id": "WB",
+    "name": "West Bengal",
+    "capital": "Kolkata",
+    "area": "88,752 km\u00b2",
+    "geography": "Eastern plains and Sundarbans.",
+    "significance": "Darjeeling, Sundarbans and culture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/West_Bengal_collage.png"
+  },
+  {
+    "id": "AN",
+    "name": "Andaman and Nicobar Islands",
+    "capital": "Port Blair",
+    "area": "8,249 km\u00b2",
+    "geography": "Island group in Bay of Bengal.",
+    "significance": "Beaches and marine life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Andaman_Nicobar.png"
+  },
+  {
+    "id": "CH",
+    "name": "Chandigarh",
+    "capital": "Chandigarh",
+    "area": "114 km\u00b2",
+    "geography": "Planned city in north India.",
+    "significance": "Architecture and gardens.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Chandigarh_collage.png"
+  },
+  {
+    "id": "DN",
+    "name": "Dadra and Nagar Haveli & Daman & Diu",
+    "capital": "Daman",
+    "area": "603 km\u00b2",
+    "geography": "Coastal territories on west coast.",
+    "significance": "Beaches and small towns.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Daman.png"
+  },
+  {
+    "id": "DLUT",
+    "name": "Delhi (NCT)",
+    "name_full": "National Capital Territory of Delhi",
+    "capital": "New Delhi",
+    "area": "1,484 km\u00b2",
+    "geography": "Capital region in north India.",
+    "significance": "Seat of government and history.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Delhi_collage.png"
+  },
+  {
+    "id": "JK",
+    "name": "Jammu and Kashmir",
+    "capital": "Srinagar (Summer) / Jammu (Winter)",
+    "area": "222,236 km\u00b2",
+    "geography": "Himalayan region with valleys.",
+    "significance": "Tourism and mountains.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jammu_Kashmir_collage.png"
+  },
+  {
+    "id": "LD",
+    "name": "Ladakh",
+    "capital": "Leh",
+    "area": "59,146 km\u00b2",
+    "geography": "High-altitude cold desert.",
+    "significance": "Monasteries and landscapes.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ladakh_collage.png"
+  },
+  {
+    "id": "LK",
+    "name": "Lakshadweep",
+    "capital": "Kavaratti",
+    "area": "32 km\u00b2",
+    "geography": "Coral atolls in Arabian Sea.",
+    "significance": "Scuba and coral reefs.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lakshadweep_beach.png"
+  },
+  {
+    "id": "PY",
+    "name": "Puducherry",
+    "capital": "Puducherry",
+    "area": "474 km\u00b2",
+    "geography": "Coastal territory with French influence.",
+    "significance": "Colonial architecture and beaches.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Puducherry_collage.png"
+  }
+]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Incredible India — Interactive</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="site-header">
+  <div class="container">
+    <h1>Incredible India</h1>
+    <input id="search" placeholder="Search state or UT..." />
+  </div>
+</header>
+
+<main class="container main-grid">
+  <section class="map-card">
+    <h2>Map</h2>
+    <!-- SVG map (simplified clickable regions) -->
+    <div class="svg-wrap">
+      <object id="indiaMap" type="image/svg+xml" data="india-map.svg"></object>
+    </div>
+    <p class="hint">Click a region on the map or search by name.</p>
+  </section>
+
+  <aside class="info-panel" id="infoPanel" aria-live="polite">
+    <h2>Welcome!</h2>
+    <p>Click a state/UT on the map or use the search box to view key information.</p>
+    <div class="fact-box">
+      <h3>Did you know?</h3>
+      <p id="randomFact"></p>
+    </div>
+  </aside>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <small>© 2025 India Info • Built for learning</small>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
